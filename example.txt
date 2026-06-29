@@ -1,2 +1,3 @@
 hello, gitdef new_method():
     print('Hello from new method')
+    print('Updated method')
